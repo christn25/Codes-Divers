@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tutorial_fragment_a.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\tutorial_fragment_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\iot.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\iot.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tutorial_pagertabs.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\tutorial_pagertabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tutorial_fragment_c.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\tutorial_fragment_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\log.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\log.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\log_badge.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\log_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\webview.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tutorial_fragment_b.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\tutorial_fragment_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_item.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\login.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\profiles.xml",
+        "source": "C:\\Users\\christn.GROUPINFRA\\dev\\iot-starter-for-android-master\\app\\src\\main\\res\\layout-land\\profiles.xml"
+    }
+]

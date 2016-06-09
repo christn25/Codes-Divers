@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aws-android-sdk-kms-2.2.18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/aws-android-sdk-kms-2.2.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
